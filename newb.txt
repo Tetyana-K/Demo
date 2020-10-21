@@ -1,6 +1,11 @@
 This text we are writing to text file(a.txt)
+<<<<<<< HEAD
 int main() {cout <<"";}
 void  func(int m)
 {
 	cout << m << endl;
+}
+void info(){
+//New line
+/Super line
 }
