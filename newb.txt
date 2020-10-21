@@ -1,0 +1,1 @@
+This text we are writing to text file(a.txt)
