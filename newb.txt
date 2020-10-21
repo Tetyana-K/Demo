@@ -1,2 +1,6 @@
 This text we are writing to text file(a.txt)
 int main() {cout <<"";}
+void  func(int m)
+{
+	cout << m << endl;
+}
